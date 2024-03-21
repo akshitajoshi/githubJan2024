@@ -4,3 +4,4 @@ Branch1 line 2
 Line4
 line5 in branch1
 line5 in master
+line7 in cmd in master
